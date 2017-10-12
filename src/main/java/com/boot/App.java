@@ -3,6 +3,7 @@ package com.boot;
 import org.apache.catalina.core.StandardThreadExecutor;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 
 /**
  * Hello world!
